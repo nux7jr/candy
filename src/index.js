@@ -1,5 +1,7 @@
 import card from "./modules/card";
-import InfoCard from "./modules/second";
-
+import load from "./modules/load";
+import search from "./modules/search"
+ 
 card();
-InfoCard();
+load();
+search();

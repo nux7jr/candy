@@ -1,3 +1,5 @@
+import getData from "./getData";
+
 const card = () => {
   const bntCard = document.getElementById("cart");
   const cardModal = document.querySelector(".cart");
