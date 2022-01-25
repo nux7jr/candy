@@ -8,7 +8,7 @@ const load = () => {
   getData().then((data) => {
     render(data);
   });
-
+  
   bntCard.addEventListener("click", () => {
     console.log("none");
   });
